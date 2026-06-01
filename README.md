@@ -15,7 +15,9 @@
 ```bash
 pip install -r requirements.txt
 python server.py
+```
 
 ### Terminal 2 (Client):
 ```bash
 python client.py
+```
