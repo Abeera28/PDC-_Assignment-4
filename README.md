@@ -1,6 +1,6 @@
 # Assignment 4 - SOA Architecture
 
-**Name:** [Attiya Touqir, Abeera Nadeem, Ayesha Farooq]
+**Name:** Attiya Touqir, Abeera Nadeem, Ayesha Farooq
 **Course:** Parallel and Distributed Systems
 **Instructor:** Dr. Nadeem Q. Mehmood
 
